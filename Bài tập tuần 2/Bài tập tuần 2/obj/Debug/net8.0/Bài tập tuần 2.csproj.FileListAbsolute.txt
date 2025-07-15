@@ -139,3 +139,16 @@ D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net
 D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Bài tập thực tập\Bài tập tuần 2\Bài tập tuần 2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
