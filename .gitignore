@@ -1,0 +1,6 @@
+
+.vs/
+git rm -r --cached .vs/
+git add .
+
+

@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "B\u00E0i_t\u1EADp_tu\u1EA7n_1.Controllers.HelloController",
+    "Method": "Get",
+    "RelativePath": "Hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "B\u00E0i_t\u1EADp_tu\u1EA7n_1.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[B\u00E0i_t\u1EADp_tu\u1EA7n_1.WeatherForecast, B\u00E0i t\u1EADp tu\u1EA7n 1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

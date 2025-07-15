@@ -1,0 +1,36 @@
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\appsettings.Development.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\appsettings.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.staticwebassets.endpoints.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.exe
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.deps.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.runtimeconfig.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Bài tập tuần 1.pdb
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.csproj.AssemblyReference.cache
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.AssemblyInfoInputs.cache
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.AssemblyInfo.cs
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.csproj.CoreCompileInputs.cache
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.MvcApplicationPartsAssemblyInfo.cs
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\scopedcss\bundle\Bài tập tuần 1.styles.css
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets\msbuild.Bài tập tuần 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets\msbuild.Bài tập tuần 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Bài tập tuần 1.props
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bài tập tuần 1.props
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bài tập tuần 1.props
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\B_i t_p .2F1A151D.Up2Date
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\refint\Bài tập tuần 1.dll
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.pdb
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\Bài tập tuần 1.genruntimeconfig.cache
+D:\Bài tập thực tập\Bài tập tuần 1\Bài tập tuần 1\obj\Debug\net8.0\ref\Bài tập tuần 1.dll

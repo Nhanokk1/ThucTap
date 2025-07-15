@@ -1,0 +1,6 @@
+@Bài_tập_tuần_1_HostAddress = http://localhost:5017
+
+GET {{Bài_tập_tuần_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
