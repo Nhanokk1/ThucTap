@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bài tập tuần 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a3336c577f6cef17e56ea17529078efd80dd076")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8241d07c2ce172f1e9e5550dc0ac7250fffb980a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bài tập tuần 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bài tập tuần 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
